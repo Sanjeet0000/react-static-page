@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 54px;
+    width: 60%;
+    align-self: center;
+    box-shadow: 0 2px 0.5px #0000001A;  
+}
+
+.nav_container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
